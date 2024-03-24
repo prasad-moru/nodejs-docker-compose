@@ -1,4 +1,4 @@
-# Docker Compose Nodejs and MySQL example
+# Docker Compose Nodejs and MySQL Local Env Setup
 
 ## Run the System
 
